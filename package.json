@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "browserify": "^16.2.3",
-    "constantinople": "^4.0.1",
+    "constantinople": "^3.1.1",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
     "express": "~4.16.0",
